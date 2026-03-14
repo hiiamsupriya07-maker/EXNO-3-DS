@@ -97,8 +97,13 @@ df['nom_0_encoded'] = te.fit_transform(df['nom_0'], df['target'])
 print(df[['nom_0', 'target', 'nom_0_encoded']])
 ```
 ## OUTPUT:
+![Output](Screenshot 2026-03-14 092559.png)
 
+![Output](Screenshot 2026-03-14 092609.png)
 
+![Output](Screenshot 2026-03-14 092621.png)
+
+![Output](Screenshot 2026-03-14 092629.png)
 # RESULT:
       Thus,for the given dataset feature encoding and transformation are done successfully.
 
